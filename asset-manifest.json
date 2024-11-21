@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jogosite-online/static/css/main.2be78056.css",
+    "main.js": "/jogosite-online/static/js/main.70f43e00.js",
+    "static/js/453.118cda70.chunk.js": "/jogosite-online/static/js/453.118cda70.chunk.js",
+    "index.html": "/jogosite-online/index.html",
+    "main.2be78056.css.map": "/jogosite-online/static/css/main.2be78056.css.map",
+    "main.70f43e00.js.map": "/jogosite-online/static/js/main.70f43e00.js.map",
+    "453.118cda70.chunk.js.map": "/jogosite-online/static/js/453.118cda70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2be78056.css",
+    "static/js/main.70f43e00.js"
+  ]
+}
